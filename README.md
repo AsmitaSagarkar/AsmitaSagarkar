@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **React,Data Structures and Algorithm**
 
-- 👨‍💻 My Portfolio link : [https://asmitasagarkar.github.io/Portfolio/](https://asmitasagarkar.github.io/Portfolio/)
+- 👨‍💻 My Portfolio link : [https://asmitasagarkar.github.io/Portfolio/](https://asmitasagarkar.github.io/myPortfolio/)
 
 - 💬 Ask me about **Web Development and Java**
 
@@ -21,6 +21,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/asmita-sagarkar-949a08201" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Asmita Sagarkar" height="30" width="40" /></a>
+<a href="https://twitter.com/AsmitaSagarkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-in-alt.svg" alt="Asmita Sagarkar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/asmita.sagarkar?mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Asmita Sagarkar" height="30" width="40" /></a>
 <a href="https://instagram.com/its_asmita05?igshid=ZDdkNTZiNTM=" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iits_asmita05" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/asmita_05" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asmita05" height="30" width="40" /></a>
