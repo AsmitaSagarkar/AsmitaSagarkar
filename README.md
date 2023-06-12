@@ -6,13 +6,13 @@
 
 - 🌱 I’m currently learning **React,Data Structures and Algorithm**
 
-- 👨‍💻 My Portfolio link : [https://asmitasagarkar.github.io/Portfolio/](https://asmitasagarkar.github.io/myPortfolio/)
+- 👨‍💻 My Portfolio link : (https://asmitasagarkar.github.io/myPortfolio/)
 
 - 💬 Ask me about **Web Development and Java**
 
 - 📫 How to reach me : **asmitasagarkar@gmail.com**
 
-- 🔭 I’m currently contributing to **Open source** and building my **Own projects**
+- 🔭 I’m currently contributing to **Open source** and building my **Own Projects**
 
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=AsmitaSagarkar&label=Profile%20Views&color=12&icon=5&pretty=false" />
