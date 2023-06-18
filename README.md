@@ -8,7 +8,7 @@
 
 - 👨‍💻 My Portfolio link : https://asmitasagarkar.github.io/myPortfolio/
 
-- 💬 Ask me about **Web Development and Java**
+- 💬 Ask me about **Java and Web Development**
 
 - 📫 How to reach me : **asmitasagarkar@gmail.com**
 
