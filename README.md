@@ -1,12 +1,12 @@
 ![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 
 <h1 align="center">Hi 👋, I'm Asmita Sagarkar</h1>
-<h3 align="center">A Passionate Front-End Web Developer from Indore.</h3>
+<h3 align="center">A Passionate Full-Stack Web Developer from Indore.</h3>
 <img align="right" alt ="Coding" width="400" src = "https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
 - 🌱 I’m currently learning **React,Data Structures and Algorithm**
 
-- 👨‍💻 My Portfolio link : https://asmitasagarkar.github.io/myPortfolio/
+- 👨‍💻 My Portfolio link : *https://asmitasagarkar.github.io/myPortfolio/**
 
 - 💬 Ask me about **Java and Web Development**
 
