@@ -15,8 +15,6 @@
 
 - 🔭 I’m currently contributing to **Open source** and building my **Own Projects**
 
-- 👩‍💻 I'm currently working on Weather Website 
-
 - 📁 Check my resume here : https://drive.google.com/file/d/1lHuuU6enomlyAebBuFQNNBSAodsPcPe_/view?usp=sharing
 
 <a href="https://visitcount.itsvg.in">
