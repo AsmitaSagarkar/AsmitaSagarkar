@@ -1,4 +1,4 @@
-![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![logo](https://github.com/AsmitaSagarkar/AsmitaSagarkar/blob/main/Banner.png)
 
 <h1 align="center">Hi 👋, I'm Asmita Sagarkar</h1>
 <h3 align="center">A Passionate Front-End Web Developer from Indore.</h3>
