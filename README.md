@@ -27,10 +27,7 @@
 <a href="https://twitter.com/AsmitaSagarkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter-in-alt.svg" alt="Asmita Sagarkar" height="30" width="40" /></a>
 <a href="https://www.facebook.com/asmita.sagarkar?mibextid=ZbWKwL" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Asmita Sagarkar" height="30" width="40" /></a>
 <a href="https://instagram.com/its_asmita05?igshid=ZDdkNTZiNTM=" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iits_asmita05" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/asmita_05" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="asmita05" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/asmitasagarkar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="Asmita Sagarkar" height="30" width="40" /></a>
-<a href="https://leetcode.com/Asmita_05/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Asmita_05" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/asmitasa7o30" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="gfg" height="30" width="40" /></a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
