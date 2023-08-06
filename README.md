@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React,Data Structures and Algorithm**
 
-- 👨‍💻 My Portfolio link : https://asmitasagarkar.github.io/myPortfolio/
+- 👨‍💻 My Portfolio link : https://asmitasagarkar.me/
 
 - 💬 Ask me about **Java and Web Development**
 
