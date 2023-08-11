@@ -24,7 +24,7 @@ https://drive.google.com/file/d/1p5ZVhQAr6gnPuujCTYXJ42kexJl1e1t6/view?usp=drive
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/asmitasagarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="asmitasagarkar" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/asmitasagarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmitasagarkar" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/asmita-sagarkar-949a08201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmitasagarkar" height="30" width="40" /></a>
 <a href="https://fb.com/asmita.sagarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asmita.sagarkar" height="30" width="40" /></a>
 <a href="https://instagram.com/its_asmita05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_asmita05" height="30" width="40" /></a>
 </p>
