@@ -27,6 +27,7 @@ https://drive.google.com/file/d/1Ukk0_8fhoWmphIogOds1lkAHdCJaZfyt/view?usp=shari
 <a href="https://www.linkedin.com/in/asmita-sagarkar-949a08201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="asmitasagarkar" height="30" width="40" /></a>
 <a href="https://fb.com/asmita.sagarkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="asmita.sagarkar" height="30" width="40" /></a>
 <a href="https://instagram.com/its_asmita05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="its_asmita05" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/asmita_05" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asmita_05" height="30" width="40" /></a>
 </p>
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asmitasagarkar" alt="asmitasagarkar" /></a> </p> 
