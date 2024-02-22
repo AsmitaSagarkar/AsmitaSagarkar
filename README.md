@@ -1,3 +1,4 @@
+![Snake animation](https://github.com/AsmitaSagarkar/AsmitaSagarkar/blob/output/github-contribution-grid-snake.svg) https://blog.arnabghosh.me/add-github-dark-snake-animation-readme
 ![logo](https://github.com/AsmitaSagarkar/AsmitaSagarkar/blob/main/Banner.png)
 
 <h1 align="center">Hi 🙋‍♀️,I'm Asmita Sagarkar</h1>
