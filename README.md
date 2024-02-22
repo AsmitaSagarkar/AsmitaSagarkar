@@ -41,3 +41,4 @@ https://drive.google.com/file/d/1olqgpITTFVs5n2VWKF2InI8Ul_MsynZF/view?usp=shari
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asmitasagarkar&" alt="asmitasagarkar" /></p>
 
 
+![Snake animation](https://github.com/AsmitaSagarkar/AsmitaSagarkar/blob/output/github-contribution-grid-snake.svg)
