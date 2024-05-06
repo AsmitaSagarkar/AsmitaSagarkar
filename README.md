@@ -15,7 +15,7 @@
 - 🔭 I’m currently contributing to **Open source** and building my **Own Projects**
 
 - 📁 Check my resume here :
-https://drive.google.com/file/d/1olqgpITTFVs5n2VWKF2InI8Ul_MsynZF/view?usp=sharing
+:https://drive.google.com/file/d/1b3_ZBrjnqb0RQczAcK7Obqz1euC2uekL/view?usp=sharing
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=AsmitaSagarkar&label=Profile%20Views&color=12&icon=5&pretty=false" />
 </a>
