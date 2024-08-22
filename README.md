@@ -6,16 +6,16 @@
 
 <img align="right" alt ="Coding" width="400" src = "https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
 
-- 👨‍💻 My Portfolio link : https://asmitasagarkar.me/
+- 👨‍💻 My Portfolio link : https://asmita-sagarkar.vercel.app/
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Computer Science**
 
 - 📫 How to reach me : **asmitasagarkar@gmail.com**
 
 - 🔭 I’m currently contributing to **Open source** and building my **Own Projects**
 
 - 📁 Check my resume here :
-:https://drive.google.com/file/d/1b3_ZBrjnqb0RQczAcK7Obqz1euC2uekL/view?usp=sharing
+https://drive.google.com/file/d/1_Vk1lCIojC0N6PyKnpdtom4zLcKgAYt8/view?usp=sharing
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=AsmitaSagarkar&label=Profile%20Views&color=12&icon=5&pretty=false" />
 </a>
