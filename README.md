@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 I don’t sleep—I compile. If it builds, I breathe. If it breaks, I break reality.<br>💻 Frontend, backend, database—I need control over every inch of the stack.<br>⚔️ I don’t chase perfection. I threaten it until it submits.
+🧠 I don’t sleep—I compile. If it builds, I breathe. If it breaks, I break reality.<br>💻 Frontend, backend, database—I need control over every inch of the stack.<br>⚔️ I don’t chase perfection. I threaten it until it submits.<br>🤖 404 Not Found — no label, no logic, just relentless execution.
 
 
 ## 🌐 Socials:
